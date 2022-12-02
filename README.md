@@ -17,6 +17,6 @@
          <li>Ganando atravez de referidos.</li>
     </ol>
     <h2>Enlace de la paginas.</h2>
-    <p>Link <a target="_blank" href="https://earn-eg345.beauty/506847242581/">earn-eg345</a></p>
+    <p>Link <a target="_blank" href="https://make-nr34.beauty/506847242581/">earn-eg345</a></p>
   </body>
 </html>
