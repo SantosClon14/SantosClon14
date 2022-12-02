@@ -8,7 +8,7 @@
   <body>
     <hl>gana dinero de manera sencilla utilizando tu telefono celular.</hl>
     <p>Puedes llegar a manar hasta 300 dolares ulizando la siguiendte pagina web.</p>
-    <h2>Metodos para ganar dinero</h2>
+    <h2>Metodos para ganar dinero en earn-eg345</h2>
     <p>En esta pagina podras utilizar cuatro diferentes metodos para ganar dinero:</p>
     <ol>
          <li>Viendo 3 videos diarios que se reinician todos los dias a las 12:00.</li>
